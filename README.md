@@ -1,6 +1,6 @@
 ![](./backprofile.png)
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?duration=6000&color=F79829&center=true&vCenter=true&multiline=true&width=600&lines=Welcome%2C+to+my+github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?duration=6000&color=F79829&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+github+profile.Please+reach+me+for+help%2C+if+needed!)](https://git.io/typing-svg)
 
 
 Yeteneklerim | Özelliklerim
