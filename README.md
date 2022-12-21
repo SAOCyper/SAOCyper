@@ -1,4 +1,4 @@
-![](./src/header_.png)
+![](./assets/backprofile.png)
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?duration=6000&color=F79829&center=true&vCenter=true&multiline=true&width=600&lines=Merhaba%2C+Github+profilime+ho%C5%9Fgeldiniz!)](https://git.io/typing-svg)
 
