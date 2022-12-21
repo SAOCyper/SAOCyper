@@ -21,9 +21,9 @@ Yeteneklerim | Özelliklerim
 ![SAOCyper's github stats](https://github-readme-stats.vercel.app/api?username=SAOCyper&show_icons=true&theme=radical&include_all_commits=true) | ![SAOCyper's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SAOCyper&theme=radical&layout=compact)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAOCyper"></img> | 
--->
 
-**📫 Bana Ulaşmak için:**
+
+-->**📫 Bana Ulaşmak için:**
 <p align="left">
 <a href="https://twitter.com/NipponSensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/SAOCyper/SAOCyper/master/assets/twitter.svg" alt="SAOCyper" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/mert-%C3%BCn%C3%BCbol-577a7b234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SAOCyper/SAOCyper/master/assets/linkedin.svg" alt="SAOCyper" height="30" width="30" /></a>
