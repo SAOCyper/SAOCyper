@@ -5,19 +5,21 @@
 
 Yeteneklerim | Özelliklerim
 --- | --- 
-**Language / Framework**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Django Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![Flask Badge](https://img.shields.io/badge/-Flask-3776AB?logo=flask) ![Arduino Badge](https://img.shields.io/badge/-Arduino-3776AB?logo=Arduino) ![C Badge](https://img.shields.io/badge/-CLang-3776AB?logo=c) ![OpenCV Badge](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+**Language / Framework**  | ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![OpenCV Badge](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 **CI / CD** | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/Tuguberk) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/Tuguberk) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/Tuguberk) ![Docker](https://img.shields.io/badge/-Docker%20-2088FF?style=flat&logo=Docker&logoColor=white)
 **Databases**  | ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-**OS**  | ![MacOs Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Arch Badge](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Gentoo Badge](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+**OS**  | ![MacOs Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+**IDE** | ![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Spyder Badge](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white)
+**Hardwares** | ![Raspberry Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 <!--   GitHub stats graph -->
-<!--### 📈 GitHub Aktivite Grafiği:
-![Tuguberk's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Tuguberk&hide_border=true&theme=redical)
+### 📈 GitHub Aktivite Grafiği:
+![SAOCyper's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SAOCyper&hide_border=true&theme=redical)
 
  . | .
 --- | --- 
-![Tuguberk's github stats](https://github-readme-stats.vercel.app/api?username=Tuguberk&show_icons=true&theme=radical&include_all_commits=true) | ![Tuguberk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuguberk&theme=radical&layout=compact)
+![SAOCyper's github stats](https://github-readme-stats.vercel.app/api?username=SAOCyper&show_icons=true&theme=radical&include_all_commits=true) | ![SAOCyper's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SAOCyper&theme=radical&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuguberk"></img> | 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAOCyper"></img> | 
 -->
 
 **📫 Bana Ulaşmak için:**
