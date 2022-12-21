@@ -5,9 +5,9 @@
 
 Yeteneklerim | Özelliklerim
 --- | --- 
-**Language / Framework**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Django Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![Flask Badge](https://img.shields.io/badge/-Flask-3776AB?logo=flask) ![Arduino Badge](https://img.shields.io/badge/-Arduino-3776AB?logo=Arduino) ![C Badge](https://img.shields.io/badge/-CLang-3776AB?logo=c)
+**Language / Framework**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Django Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![Flask Badge](https://img.shields.io/badge/-Flask-3776AB?logo=flask) ![Arduino Badge](https://img.shields.io/badge/-Arduino-3776AB?logo=Arduino) ![C Badge](https://img.shields.io/badge/-CLang-3776AB?logo=c) ![OpenCV Badge](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 **CI / CD** | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/Tuguberk) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/Tuguberk) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/Tuguberk) ![Docker](https://img.shields.io/badge/-Docker%20-2088FF?style=flat&logo=Docker&logoColor=white)
-**Databases**  | ![PostgreSql Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Databases**  | ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 **OS**  | ![MacOs Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Arch Badge](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Gentoo Badge](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 <!--   GitHub stats graph -->
 <!--### 📈 GitHub Aktivite Grafiği:
