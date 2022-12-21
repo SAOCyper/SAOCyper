@@ -14,7 +14,6 @@ Yeteneklerim | Özelliklerim
 <!--   GitHub stats graph -->
 ### 📈 GitHub Aktivite Grafiği:
 ![SAOCyper's Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAOCyper&theme=vue)
-![SAOCyper's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SAOCyper&hide_border=true&theme=redical)
 ![SAOCyper's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SAOCyper)
 ![SAOCyper's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SAOCyper)
  . | .
