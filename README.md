@@ -13,8 +13,10 @@ Yeteneklerim | Özelliklerim
 **Hardwares** | ![Raspberry Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Aktivite Grafiği:
+![SAOCyper's Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
 ![SAOCyper's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SAOCyper&hide_border=true&theme=redical)
-
+![SAOCyper's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SAOCyper)
+![SAOCyper's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SAOCyper)
  . | .
 --- | --- 
 ![SAOCyper's github stats](https://github-readme-stats.vercel.app/api?username=SAOCyper&show_icons=true&theme=radical&include_all_commits=true) | ![SAOCyper's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SAOCyper&theme=radical&layout=compact)
@@ -29,4 +31,4 @@ Yeteneklerim | Özelliklerim
 <a href="mailto:eemertunubol@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/SAOCyper/SAOCyper/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=SAOCyper&style=for-the-badge)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
