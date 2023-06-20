@@ -20,7 +20,7 @@ Yeteneklerim | Özelliklerim
 --- | --- 
 ![SAOCyper's github stats](https://github-readme-stats.vercel.app/api?username=SAOCyper&show_icons=true&theme=radical&include_all_commits=true) | ![SAOCyper's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SAOCyper&theme=radical&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAOCyper"></img> | 
+
 
 
 -->**📫 Bana Ulaşmak için:**
